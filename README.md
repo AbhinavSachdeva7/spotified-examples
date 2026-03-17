@@ -6,7 +6,7 @@ The Node.js and React examples of (spotified)[]
 
 To run the Node.js example:
 
-1. Download spotified.
+1. Download Spotified.
 2. Navigate to the `node-example/` directory.
 3. Create a `.env` file in this directory with your Spotify API credentials:
    ```
@@ -20,7 +20,7 @@ To run the Node.js example:
 
 To run the React example:
 
-1. Download the repository.
+1. Download Spotified.
 2. Navigate to the `react-example/` directory.
 3. Create a `.env` file in this directory with your Spotify API client ID:
    ```
