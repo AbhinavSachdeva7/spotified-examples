@@ -1,6 +1,6 @@
 # spotified-examples
 
-The Node.js and React examples of (spotified)[https://github.com/Abdullah-Malik/spotified]
+The Node.js and React examples of [Spotified](https://github.com/Abdullah-Malik/spotified)
 
 ### Running the Node.js Example
 
