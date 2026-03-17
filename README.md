@@ -2,6 +2,20 @@
 
 The Node.js and React examples of [Spotified](https://github.com/Abdullah-Malik/spotified)
 
+## Installation
+
+You can install Spotified using npm:
+
+```bash
+npm install spotified
+```
+
+Or using yarn:
+
+```bash
+yarn add spotified
+```
+
 ### Running the Node.js Example
 
 To run the Node.js example:
