@@ -2,7 +2,7 @@
 
 The Node.js and React examples of [Spotified](https://github.com/Abdullah-Malik/spotified)
 
-## Installation
+### Installation
 
 You can install Spotified using npm:
 
